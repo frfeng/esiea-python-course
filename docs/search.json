@@ -4,7 +4,7 @@
     "href": "esiea-python-course.html#instructors",
     "title": "Python as an Engineering Tool",
     "section": "Instructors",
-    "text": "Instructors\n\nFred Feng (“Fred” is fine.)\nfredfeng@umich.edu\nhttps://fenggroup.org\n\nHelpers\n\nDuha Alkurdi\nAli Kassab"
+    "text": "Instructors\n\nDr. Fred Feng (“Fred” is fine.)\nEmail: fredfeng@umich.edu\nResearch website: https://fenggroup.org\n\nHelpers\n\nDuha Alkurdi\nAli Kassab"
   },
   {
     "objectID": "esiea-python-course.html#etherpad",
@@ -46,14 +46,56 @@
     "href": "esiea-python-course.html#what-will-this-course-cover",
     "title": "Python as an Engineering Tool",
     "section": "What will this course cover?",
-    "text": "What will this course cover?\n\nPython basics\nPython for plotting\nPython for data analysis\nTime series analysis\nBuilding dashboards\nPython for machine learning"
+    "text": "What will this course cover?\n\nPython basics\nPython for plotting\nPython for data analysis\nTime series analysis\nBuilding dashboards\nPython for machine learning\nNatural language processing"
   },
   {
     "objectID": "esiea-python-course.html#project",
     "href": "esiea-python-course.html#project",
     "title": "Python as an Engineering Tool",
     "section": "Project",
-    "text": "Project\n\n3-person teams (self sign up on the etherpad)\n\nYour team will\n\nchoose your own topic (that showcases what you learned)\nwork on your project on Thursday afternoon.\nmake a 15-min presentation on Friday morning.\nsubmit your code on Canvas by Friday noon."
+    "text": "Project\n\n3-person teams (self sign up on the etherpad)\nYour team will choose your own topic and data sets (that showcases what you learned) \nYou are required to use Python and Jupyter notebooks.\nYou will work on your project on Thursday afternoon.\nYou will make a 12-min presentation followed by a Q&A.\n\nEach team member are expected to speak for roughly even amount of time.\n\nSubmit your presentation slides and reproducible code on Canvas by Friday 5:00 PM."
+  },
+  {
+    "objectID": "esiea-python-course.html#project-1",
+    "href": "esiea-python-course.html#project-1",
+    "title": "Python as an Engineering Tool",
+    "section": "Project",
+    "text": "Project\n\nThe presentation should cover the following parts\n\nIntroduction or background\nProjects objectives\nMethods (e.g., data set description)\nResults\nDiscussions (e.g., implications of the results, study limitations)\nKey conclusions"
+  },
+  {
+    "objectID": "esiea-python-course.html#project-grading-rubrics",
+    "href": "esiea-python-course.html#project-grading-rubrics",
+    "title": "Python as an Engineering Tool",
+    "section": "Project grading rubrics",
+    "text": "Project grading rubrics\n\nContent (40%)\n\nThe work demonstrated good knowledge of the course content and skills.\nThe methods, results, and discussions were correct and appropriate.\nThe presentation utilized materials including visuals to effectively communicate the work with the audience."
+  },
+  {
+    "objectID": "esiea-python-course.html#project-grading-rubrics-1",
+    "href": "esiea-python-course.html#project-grading-rubrics-1",
+    "title": "Python as an Engineering Tool",
+    "section": "Project grading rubrics",
+    "text": "Project grading rubrics\n\nOrganization (20%)\n\nThe project was clearly and logically presented.\nThe transitions and flow were easy to follow."
+  },
+  {
+    "objectID": "esiea-python-course.html#project-grading-rubrics-2",
+    "href": "esiea-python-course.html#project-grading-rubrics-2",
+    "title": "Python as an Engineering Tool",
+    "section": "Project grading rubrics",
+    "text": "Project grading rubrics\n\nPresentation (20%) - this will be graded individually\n\nThe speaker was fluent and had clear articulation on the topic.\nThe speaker made frequent eye-contact with the audience.\nThe materials were presented in a way that held audience attention.\nThe presentation did not significantly exceed the time allotment."
+  },
+  {
+    "objectID": "esiea-python-course.html#project-grading-rubrics-3",
+    "href": "esiea-python-course.html#project-grading-rubrics-3",
+    "title": "Python as an Engineering Tool",
+    "section": "Project grading rubrics",
+    "text": "Project grading rubrics\n\nCode submissions (20%)\n\nComplete code, data, and other necessary files were provided so that the instructors are able to reproduce all your work.\nThe codes in the Jupyter notebook were well organized and easy to read."
+  },
+  {
+    "objectID": "esiea-python-course.html#presentation-checklist",
+    "href": "esiea-python-course.html#presentation-checklist",
+    "title": "Python as an Engineering Tool",
+    "section": "Presentation checklist",
+    "text": "Presentation checklist\n\nAre the texts in your slides and plots/tables too small for the audience to read?\nAre the plot axis clearly labeled and with units? \nAre there discussions on the study limitations?\nAny work (e.g., images) from others need to be cited."
   },
   {
     "objectID": "esiea-python-course.html#course-survey",
