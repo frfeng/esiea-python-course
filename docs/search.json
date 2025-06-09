@@ -4,7 +4,7 @@
     "href": "esiea-python-course.html#instructors",
     "title": "Python as an Engineering Tool",
     "section": "Instructors",
-    "text": "Instructors\n\nDr. Fred Feng (“Fred” is fine.)\nEmail: fredfeng@umich.edu\nResearch website: https://fenggroup.org\n\nHelpers\n\nDuha Alkurdi\nAli Kassab"
+    "text": "Instructors\n\nDr. Fred Feng (“Fred” is fine.)\nEmail: fredfeng@umich.edu\nResearch website\n\n\nTeaching assistants\n\nDuha Alkurdi\nRayane Moustafa"
   },
   {
     "objectID": "esiea-python-course.html#etherpad",
@@ -18,35 +18,42 @@
     "href": "esiea-python-course.html#asking-questions-and-getting-help",
     "title": "Python as an Engineering Tool",
     "section": "Asking questions and getting help",
-    "text": "Asking questions and getting help\n\nIf you have general questions about a topic, please raise your hand to ask it.\nFor more specific questions about issues you are having individually, please use the sticky notes to indicate whether you are on track or need help."
+    "text": "Asking questions and getting help\n\nIf you have general questions about a topic, please raise your hand to ask it.\nFor more specific questions about issues you are having individually, please use the sticky notes to ask for help."
   },
   {
-    "objectID": "esiea-python-course.html#other-miscellaneous-things",
-    "href": "esiea-python-course.html#other-miscellaneous-things",
+    "objectID": "esiea-python-course.html#lecture-etiquette",
+    "href": "esiea-python-course.html#lecture-etiquette",
     "title": "Python as an Engineering Tool",
-    "section": "Other miscellaneous things",
-    "text": "Other miscellaneous things\n\nRestrooms\nSign up sheets"
+    "section": "Lecture etiquette",
+    "text": "Lecture etiquette\n\nArrive on time\nMute your mobile phones.\nDo not engage in private conversations"
+  },
+  {
+    "objectID": "esiea-python-course.html#sign-up-sheets",
+    "href": "esiea-python-course.html#sign-up-sheets",
+    "title": "Python as an Engineering Tool",
+    "section": "Sign up sheets",
+    "text": "Sign up sheets\n\nMorning and afternoon sign ups on each day\nIt is your responsibility to make sure you sign up each time\nIt is a serious academic integrety violation to sign up for another person."
   },
   {
     "objectID": "esiea-python-course.html#schedule",
     "href": "esiea-python-course.html#schedule",
     "title": "Python as an Engineering Tool",
     "section": "Schedule",
-    "text": "Schedule\n\nMonday - Thursday\n\n\nSession I\n9 AM - 10:30 AM\n\n\nBreak\n10:30 AM - 10:45 AM\n\n\nSession II\n10:45 AM - noon\n\n\nLunch break\nnoon - 1:30 PM\n\n\nSession III\n1:30 PM - 3:00 PM\n\n\nBreak\n3:00 PM - 3:15 PM\n\n\nSession IV\n3:15 PM - 5:00 PM"
+    "text": "Schedule\n\nMonday - Thursday\n\n\nSession I\n9:00 AM - 9:50 AM\n\n\nBreak\n9:50 AM - 10:00 AM\n\n\nSession II\n10:00 AM - 10:50 AM\n\n\nBreak\n10:50 AM - 11:00 AM\n\n\nSession III\n11:00 AM - noon\n\n\nLunch break\nnoon - 1:30 PM\n\n\nSession I\n1:30 PM - 2:30 PM\n\n\nBreak\n2:30 PM - 2:40 PM\n\n\nSession II\n2:40 PM - 3:40 PM\n\n\nBreak\n3:40 PM - 3:50 PM\n\n\nSession III\n3:50 PM - 4:45 PM"
   },
   {
     "objectID": "esiea-python-course.html#schedule-1",
     "href": "esiea-python-course.html#schedule-1",
     "title": "Python as an Engineering Tool",
     "section": "Schedule",
-    "text": "Schedule\nFriday: Project presentation (9 AM - noon)"
+    "text": "Schedule\nFriday: Project presentation (9:00 AM - noon)"
   },
   {
-    "objectID": "esiea-python-course.html#what-will-this-course-cover",
-    "href": "esiea-python-course.html#what-will-this-course-cover",
+    "objectID": "esiea-python-course.html#tentative-topics",
+    "href": "esiea-python-course.html#tentative-topics",
     "title": "Python as an Engineering Tool",
-    "section": "What will this course cover?",
-    "text": "What will this course cover?\n\nPython basics\nPython for plotting\nPython for data analysis\nTime series analysis\nBuilding dashboards\nPython for machine learning\nNatural language processing"
+    "section": "Tentative topics",
+    "text": "Tentative topics\n\nPython basics\nPython for plotting\nPython for data analysis\nTime series analysis\nBuilding dashboards\nPython for machine learning\nNatural language processing"
   },
   {
     "objectID": "esiea-python-course.html#project",
